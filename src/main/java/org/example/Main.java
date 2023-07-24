@@ -1,7 +1,11 @@
 package org.example;
 
+import org.example.crud.Connector;
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
+        Connector connector = new Connector();
+
     }
 }
