@@ -1,0 +1,6 @@
+{"id":1,"name":"Anderson silva","nickname":"Spider","age":46,"weight":84,"height":188,"rating":94,"boxing_attack":94,"wrestling_attack":98,"boxing_protection":90,"wrestling_protection":93}
+{"id":2,"name":"Nick Diaz","nickname":"209","age":39,"weight":77,"height":185,"rating":88,"boxing_attack":92,"wrestling_attack":90,"boxing_protection":85,"wrestling_protection":85}
+{"id":3,"name":"Robert Whittaker","nickname":"The Reaper","age":32,"weight":84,"height":180,"rating":91,"boxing_attack":91,"wrestling_attack":91,"boxing_protection":91,"wrestling_protection":91}
+{"id":4,"name":"Israel Adesanya","nickname":"The Last Stylebender","age":33,"weight":84,"height":193,"rating":94,"boxing_attack":94,"wrestling_attack":98,"boxing_protection":88,"wrestling_protection":95}
+{"id":5,"name":"Alexsandro Pereira","nickname":"Poatan","age":35,"weight":84,"height":193,"rating":89,"boxing_attack":96,"wrestling_attack":88,"boxing_protection":84,"wrestling_protection":88}
+{"id":6,"name":"Azizkhan","nickname":"Abdulaev","age":23,"weight":77,"height":190,"rating":90,"boxing_attack":90,"wrestling_attack":90,"boxing_protection":90,"wrestling_protection":90}
